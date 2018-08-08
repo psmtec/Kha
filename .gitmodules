@@ -4,7 +4,7 @@
 	branch = master
 [submodule "Tools/khamake"]
 	path = Tools/khamake
-	url = https://github.com/Kode/khamake.git
+	url = http://aagit01.as-i.com/github-mirror/Kode/khamake.git
 	branch = master
 [submodule "Backends/Kore/khacpp"]
 	path = Backends/Kore/khacpp
