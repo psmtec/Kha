@@ -45,4 +45,12 @@ class Audio {
 	public static function stream(sound: Sound, loop: Bool = false): kha.audio1.AudioChannel {
 		return null;
 	}
+
+	public static function mute() {
+		trace('not implemented yet');
+	}
+
+	public static function unmute() {
+		trace('not implemented yet');
+	}
 }
